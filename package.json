@@ -1,0 +1,16 @@
+{
+  "name": "cirrascale-sandbox",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Playground for the Qualcomm AI Inference Suite (Cirrascale). Zero-dependency Node ESM scripts.",
+  "scripts": {
+    "complete": "node --env-file=.env scripts/complete.mjs",
+    "stream": "node --env-file=.env scripts/stream.mjs",
+    "plan": "node --env-file=.env scripts/plan.mjs",
+    "scrape-and-plan": "node --env-file=.env scripts/scrape-and-plan.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
