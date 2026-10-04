@@ -5,7 +5,7 @@ A dependency-light **playground** for the **Qualcomm AI Inference Suite**
 native `fetch`, no framework.
 
 Sibling / main platform:
-[`cirrascale-planner`](https://github.com/RishithMody/cirrascale-planner).
+[`cirrascale-planner`](https://github.com/QualcommCapstone/cirrascale-planner).
 
 ## Requirements
 
